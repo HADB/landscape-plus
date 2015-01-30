@@ -1,7 +1,7 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  首页: /
+  归档: /archives
 rss: /atom.xml
 
 # Content
@@ -21,8 +21,8 @@ widgets:
 
 # Links
 links:
-  主题作者: http://xiguabaobao.com
-  热前端: http://reqianduan.com
+  好易思特官网: http://www.haoest.com
+  好易思特星际战区: http://sc2.haoest.com
 
 # Miscellaneous
 google_analytics:
