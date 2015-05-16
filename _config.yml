@@ -13,20 +13,22 @@ mathjax: false
 sidebar: right
 widgets:
 - category
-- tag
 - tagcloud
 - archive
 - recent_posts
 - links
+# - adsense
 
 # Links
 links:
   好易思特官网: http://www.haoest.com
+  好易思特博客: http://blog.haoest.com
   好易思特星际战区: http://sc2.haoest.com
+  Lophita: http://lophita.com/
 
 # Miscellaneous
-google_analytics:
-favicon: /favicon.png
+google_analytics: UA-61198005-1
+favicon: /favicon.ico
 twitter:
 google_plus:
 fb_admins: 
